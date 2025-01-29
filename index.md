@@ -1,4 +1,4 @@
 ---
-title: Claudia's Project Portfolio
+title: My Project Portfolio
 ---
 
