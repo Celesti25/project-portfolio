@@ -12,3 +12,5 @@ Hey, here's where I will compile all the amazing projects I've completed!
 <a href="Infographic about Healthcare accessibility + barriers on homeless people -1.pdf" target = "_blank"> Analyzing Barriers to Healthcare for the Homeless Population. </a>
 
 <a href="Systems essay.docx"  target = "_blank"> Mapping Obesity and its intricacies. </a> 
+
+<a href="Project-2-Data1001---group-project-1.html" target = "_blank" > Studying correlations of attention spans in online learning specifically during COVID. </a> 
