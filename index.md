@@ -18,5 +18,6 @@ Hey, here's where I will compile all the amazing projects I've completed!
 <a href="Project-3.html" target = "_blank" > Analyzed the future growth prospect of Australia's economy through assessing international flights to and fro Australia from 2003 to 2018 </a>
 
 <a href = "annotated-Commentary Article-3.docx.pdf" target = "_blank" > Immunology Commentary Article on Immune Checkpoint Inhibitors </a>
-<a href = "The two cultures.docs" target = "_blank" > Integration of Science and the Humanities and how this will serve us
+
+<a href = "The two cultures.docs" target = "_blank" > Integration of Science and the Humanities and how this will serve us.
 </a>
