@@ -20,3 +20,5 @@ Hey, here's where I will compile all the amazing projects I've completed!
 <a href = "annotated-Commentary Article-3.docx.pdf" target = "_blank" > Immunology Commentary Article on Immune Checkpoint Inhibitors </a>
 
 <a href = "The two cultures.docx" target = "_blank" > Purpose of Integrating The Sciences and Humanities </a>
+
+<a href = "Lam_Claudia_PosterPartB.pptx" target = "_blank" > Thorough research + poster creation on Haemophilla Disorder </a>
