@@ -22,3 +22,5 @@ Hey, here's where I will compile all the amazing projects I've completed!
 <a href = "The two cultures.docx" target = "_blank" > Purpose of Integrating The Sciences and Humanities </a>
 
 <a href = "Lam_Claudia_PosterPartB.pptx" target = "_blank" > Thorough research + poster creation on Haemophilla Disorder </a>
+
+<a href = "annotated-Physics Poster SCIE1001.pdf" target = "_blank" > How backpack weight affects walking posture - Scientific Experiment & Results summarized within a beautiful poster </a>
